@@ -31,6 +31,7 @@ Browse the available boilerplates and starter kits by category:
 
 ### Next.js
 
+- [Gemini AI Suite](https://github.com/skappax/gemini-ai-suite) - Next.js 14, Google Gemini 2.5 SDK (streaming), TypeScript, Tailwind, Stripe billing
 - [Bedrock](https://bedrock.mxstbr.com) - Next.js, React, TypeScript, GraphQL, Stripe, Prisma
 - [SaaS AI Boilerplate](https://www.saasai.dev) - Next.js, React, Tailwind, AI integration, Stripe
 - [Ixartz Nextjs](https://github.com/ixartz/Next-js-Boilerplate) - Next.js, TypeScript
