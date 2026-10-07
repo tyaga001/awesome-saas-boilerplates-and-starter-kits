@@ -77,6 +77,7 @@ Browse the available boilerplates and starter kits by category:
 - [Nodewood](https://nodewood.com/) - Node.js
 - [Boostack.io](https://boostack.io/) - Node.js, open-source
 - [Nextless JS](https://nextlessjs.com) - Node.js
+- [Fastrelease](https://fastrelease.net/) - Commercial Node.js SaaS starter, PostgreSQL, Stripe, Docker, multi-tenancy; Starting US$199 once/1 project, Premium US$249/year and Ultimate US$299/year/unlimited projects during paid term.
 
 ### Python
 
