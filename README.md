@@ -112,6 +112,7 @@ Browse the available boilerplates and starter kits by category:
 
 ### SvelteKit
 
+- [AgenticSaaS](https://agenticsaas.flawlesslyhuman.com/) - Paid SvelteKit starter with Cloudflare D1, accounts, billing, credits, private files and agent documentation. Save $100 with LAUNCH100, for the first 100 paid launch licenses.
 - [SaaS Starter / CMSaasStarter](https://saasstarter.work) - SvelteKit
 - [Just Ship](https://justship.today) - SvelteKit
 
