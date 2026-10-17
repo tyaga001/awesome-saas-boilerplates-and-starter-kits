@@ -143,6 +143,7 @@ Browse the available boilerplates and starter kits by category:
 - [SaaSBold](https://saasbold.com/) - SaaS Boilerplate
 - [StartKit.AI](https://startkit.ai) - AI-focused SaaS Boilerplate
 - [All-In-One Next & React Native Starter](https://allinonedev.com) - Next.js, React Native
+- [OTF SaaS Dashboard Kit](https://otf-kit.dev/templates/saas-dashboard?utm_source=directory&utm_medium=organic&utm_campaign=awesome-listing&utm_content=2026-10-17-saas-kit-tyaga001) - SaaS dashboard starter with billing and teams, paid $99, live demo before you buy
 
 ## How to Use This Catalog
 
