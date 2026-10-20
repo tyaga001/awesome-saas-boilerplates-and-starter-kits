@@ -34,6 +34,7 @@ Browse the available boilerplates and starter kits by category:
 - [Bedrock](https://bedrock.mxstbr.com) - Next.js, React, TypeScript, GraphQL, Stripe, Prisma
 - [SaaS AI Boilerplate](https://www.saasai.dev) - Next.js, React, Tailwind, AI integration, Stripe
 - [Ixartz Nextjs](https://github.com/ixartz/Next-js-Boilerplate) - Next.js, TypeScript
+- [DevFlow](https://github.com/Abderrahim-Allaoui/devflow) - Next.js, TypeScript, Prisma, PostgreSQL, JWT auth, Docker
 - [Shipixen](https://shipixen.com) - Next.js
 - [Supastarter](https://supastarter.dev) - Next.js, Supabase
 - [Makerkit](https://makerkit.dev) - Next.js
