@@ -143,6 +143,7 @@ Browse the available boilerplates and starter kits by category:
 - [SaaSBold](https://saasbold.com/) - SaaS Boilerplate
 - [StartKit.AI](https://startkit.ai) - AI-focused SaaS Boilerplate
 - [All-In-One Next & React Native Starter](https://allinonedev.com) - Next.js, React Native
+- [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 ## How to Use This Catalog
 
