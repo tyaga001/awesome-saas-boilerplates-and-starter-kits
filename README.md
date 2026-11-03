@@ -42,6 +42,7 @@ Browse the available boilerplates and starter kits by category:
 - [Nextacular](https://nextacular.co/) - Next.js, React, Tailwind CSS, PostgreSQL
 - [SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) - Next.js, React, TypeScript, PostgreSQL
 - [NextJSDirectory](https://nextjsdirectory.com/) - Next.js, directory building
+- [supastack](https://supastack.dev) - Next.js, Expo, Tauri, TypeScript, Stripe billing, multi-provider AI, Postgres, i18n
 - [Next.js Subscription Payments Starter](https://github.com/vercel/nextjs-subscription-payments) - Next.js, Stripe
 - [Next.js Supabase Stripe Starter](https://github.com/KolbySisk/next-supabase-stripe-starter) - Next.js, Supabase, Stripe
 - [Next Starter AI](https://nextstarter.ai) - Next.js, AI integration
