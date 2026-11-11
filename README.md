@@ -48,6 +48,7 @@ Browse the available boilerplates and starter kits by category:
 - [SaasRock](https://saasrock.com) - Next.js
 - [Usenextbase](https://usenextbase.com) - Next.js
 - [Robuste](https://robuste.dev) - Ship fast Stay robuste.
+- [Agentwright](https://agentwright.app) - Next.js, TypeScript, Claude API agents, Drizzle, Postgres, Lemon Squeezy
 
 ### React
 
