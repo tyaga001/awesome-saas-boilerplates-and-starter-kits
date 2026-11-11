@@ -143,6 +143,7 @@ Browse the available boilerplates and starter kits by category:
 - [SaaSBold](https://saasbold.com/) - SaaS Boilerplate
 - [StartKit.AI](https://startkit.ai) - AI-focused SaaS Boilerplate
 - [All-In-One Next & React Native Starter](https://allinonedev.com) - Next.js, React Native
+- [OTF Fitness Kit](https://otf-kit.dev/templates/fitness-kit?utm_source=directory&utm_medium=referral&utm_campaign=first-sale-14d-20261016&utm_content=tyaga001-rn-fitness-1111) - Expo, React Native, Hono, Drizzle, Postgres
 
 ## How to Use This Catalog
 
