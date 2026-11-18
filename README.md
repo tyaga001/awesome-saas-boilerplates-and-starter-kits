@@ -51,6 +51,7 @@ Browse the available boilerplates and starter kits by category:
 
 ### React
 
+- [Helpful Mods Foundation Kit](https://helpfulmods.com/foundation/) - React, Vite, Firebase Auth, PostgreSQL, Stripe
 - [React SaaS Template](https://github.com/dunky11/react-saas-template) - React, Material-UI
 - [React SaaS](https://react-saas.com/) - React, open-source
 - [OpenSaaS.sh](https://OpenSaaS.sh/) - React, NodeJS, Prisma, Stripe
